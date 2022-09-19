@@ -54,8 +54,8 @@
  - Next Update Attack Menu And L4 Methods (SOON...)
 ```
 
-## Grouptelegram
-https://t.me/hackingcn
+## facebook.com
+(https://www.facebook.com/npt.developer.dv.mxh)
 
 ## Usage
 ```sh
